@@ -4,3 +4,6 @@ while True:
         print(max(b-a-1, c-b-1))
     except:
         break
+
+# 3 5 9
+# 3~5와 5~9중 넓은 쪽으로 점프
