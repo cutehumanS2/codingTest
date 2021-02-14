@@ -2,7 +2,7 @@
 using namespace std;
 
 //행이 3개인 인접 리스트 표현
-vector < pair<int, int> graph[3];
+vector<pair<int, int>> graph[3];
 
 int main()
 {
